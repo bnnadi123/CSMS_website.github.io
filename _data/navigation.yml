@@ -9,16 +9,16 @@
 
 main:
   - title: "Reasearch"
-    url: /publications/
+    url: /resarch/
 
   - title: "Papers"
-    url: /talks/    
+    url: /papers/    
 
   - title: "Teams"
-    url: /teaching/    
+    url: /teams/    
     
   - title: "Teaching"
-    url: /portfolio/
+    url: /teaching/
         
   - title: "Blog Posts"
     url: /year-archive/
